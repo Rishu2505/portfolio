@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Mukesh Kumar",
   initials: "MK",
-  url: "https://www.google.com/",
+  url: "https://portfolio-lake-three-21.vercel.app/",
   location: "Chamba Himachal Pradesh, India",
   locationLink: "https://www.google.com/maps/place/Chamba,+Himachal+Pradesh",
   description:
