@@ -27,6 +27,8 @@ export const DATA = {
     "Swift",
     "C++",
     "React.js",
+    "Android Studio",
+    "Xcode",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -280,7 +282,7 @@ helping them come together to make an even bigger impact in the world.`,
       image: "",
       video: "https://pub-f7f9635c2dc945be86094691b6687a78.r2.dev/agrim.mp4",
     },
-    
+
   ],
   hackathons: [],
   // hackathons: [
