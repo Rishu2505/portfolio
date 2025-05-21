@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I'm a software engineer focused on transforming ideas into scalable, user-centric applications that make a difference.",
   summary:
-    `I'm a Software Development Engineer with over 8 years of experience specializing in mobile application development across React Native, Android, and iOS platforms. I thrive in dynamic, collaborative environments where I can bring innovative ideas to life and build cutting-edge mobile solutions that push industry standards and delight users. I'm passionate about writing clean, efficient code and continuously learning to stay ahead in a fast-evolving tech landscape. I’m currently seeking full-time opportunities where I can contribute my expertise, creativity, and problem-solving skills to drive meaningful impact and long-term success.`,
+    `I'm a seasoned Software Development Engineer with over 8 years of experience specializing in mobile application development across React Native, Android, and iOS platforms. I excel in fast-paced, collaborative environments, where I transform innovative concepts into high-performance mobile solutions that elevate user experience and set new industry benchmarks. Passionate about clean, maintainable code and agile development practices, I stay at the forefront of emerging technologies to continuously sharpen my skills. I'm currently seeking a full-time opportunity where I can apply my technical expertise, creative mindset, and problem-solving abilities to deliver impactful, scalable products and contribute to long-term organizational success.`,
   avatarUrl: "/me.png",
   skills: [
     "React Native",
@@ -192,7 +192,7 @@ React Native and my ability to deliver high-quality mobile solutions tailored to
     {
       title: "Spontaneous",
       href: "https://www.spon.co/",
-      dates: "June 2023 - Present",
+      dates: "May 2024 - April 2025",
       active: true,
       description:
         "Spontaneous makes hanging out easy with daily invites for you and your friends.",
