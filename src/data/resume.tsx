@@ -8,7 +8,7 @@ export const DATA = {
   location: "Chamba Himachal Pradesh, India",
   locationLink: "https://www.google.com/maps/place/Chamba,+Himachal+Pradesh",
   description:
-    "From electronics to code—I'm an engineer who loves building cool stuff and helping people wherever I can.",
+    "I'm a software engineer focused on transforming ideas into scalable, user-centric applications that make a difference.",
   summary:
     `I'm a Software Development Engineer with over 8 years of experience specializing in mobile application development across React Native, Android, and iOS platforms. I thrive in dynamic, collaborative environments where I can bring innovative ideas to life and build cutting-edge mobile solutions that push industry standards and delight users. I'm passionate about writing clean, efficient code and continuously learning to stay ahead in a fast-evolving tech landscape. I’m currently seeking full-time opportunities where I can contribute my expertise, creativity, and problem-solving skills to drive meaningful impact and long-term success.`,
   avatarUrl: "/me.png",
