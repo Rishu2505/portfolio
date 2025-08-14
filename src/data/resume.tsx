@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I'm a software engineer focused on transforming ideas into scalable, user-centric applications that make a difference.",
   summary:
-    `I'm a seasoned Software Development Engineer with over 8 years of experience specializing in mobile application development across React Native, Android, and iOS platforms. I excel in fast-paced, collaborative environments, where I transform innovative concepts into high-performance mobile solutions that elevate user experience and set new industry benchmarks. Passionate about clean, maintainable code and agile development practices, I stay at the forefront of emerging technologies to continuously sharpen my skills. I'm currently seeking a full-time opportunity where I can apply my technical expertise, creative mindset, and problem-solving abilities to deliver impactful, scalable products and contribute to long-term organizational success.`,
+    `I'm a seasoned Software Development Engineer with over 9 years of experience specializing in mobile application development across React Native, Android, and iOS platforms. I excel in fast-paced, collaborative environments, where I transform innovative concepts into high-performance mobile solutions that elevate user experience and set new industry benchmarks. Passionate about clean, maintainable code and agile development practices, I stay at the forefront of emerging technologies to continuously sharpen my skills. I'm currently seeking a full-time opportunity where I can apply my technical expertise, creative mindset, and problem-solving abilities to deliver impactful, scalable products and contribute to long-term organizational success.`,
   avatarUrl: "/me.png",
   skills: [
     "React Native",
@@ -160,6 +160,61 @@ React Native and my ability to deliver high-quality mobile solutions tailored to
     },
   ],
   projects: [
+    {
+      title: "Sentient Mobile App",
+      href: "https://github.com/Rishu2505/Sentient/blob/main/assets/images/sentient.gif",
+      dates: "July 2025",
+      active: true,
+      description:
+        "A sleek, dark-themed React Native app built with Expo — featuring pixel-perfect design, smartly categorized AI agents, and an interactive OpenAI-powered chat experience.",
+      technologies: [
+        "React Native",
+        "Typescript",
+        "Expo",
+        "CSS",
+        "Animations",
+        "Zustand",
+        "OpenAI",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Rishu2505/Sentient",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-f7f9635c2dc945be86094691b6687a78.r2.dev/Sentient.mp4",
+    },
+    {
+      title: "Hipster Mobile App",
+      href: "https://github.com/Rishu2505/tasks_hipster/blob/main/assets/images/hipster.gif",
+      dates: "July 2025",
+      active: true,
+      description:
+        "Hands-on React Native solutions tackling real-world challenges in location tracking, mapping, dynamic UI, and real-time data — built to showcase practical skills for Hipster Inc.",
+      technologies: [
+        "React Native",
+        "Typescript",
+        "Expo",
+        "CSS",
+        "Animations",
+        "Redux",
+        "Maps",
+        "Bottom-Sheet",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Rishu2505/tasks_hipster",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-f7f9635c2dc945be86094691b6687a78.r2.dev/Hipster.mp4",
+    },
     {
       title: "EasyEd",
       href: "https://www.easyed.app/",

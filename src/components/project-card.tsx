@@ -40,6 +40,7 @@ export function ProjectCard({
   links,
   className,
 }: Props) {
+  let mobileUI = links?.some(link => ['https://github.com/Rishu2505/tasks_hipster','https://github.com/Rishu2505/Sentient'].includes(link.href)) || false
   return (
     <Card
       className={
@@ -57,7 +58,7 @@ export function ProjectCard({
             loop
             muted
             playsInline
-            className="pointer-events-none mx-auto h-40 w-full object-cover object-top" // needed because random black line at bottom of video
+            className={mobileUI ? "pointer-events-none mx-auto h-100 w-full object-cover object-top" : "pointer-events-none mx-auto h-40 w-full object-cover object-top"} // needed because random black line at bottom of video
           />
         )}
         {image && (
