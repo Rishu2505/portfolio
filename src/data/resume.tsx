@@ -42,7 +42,7 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/Rishu2505",
         icon: Icons.github,
-        navbar: false,
+        navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
