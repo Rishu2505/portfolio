@@ -161,6 +161,32 @@ React Native and my ability to deliver high-quality mobile solutions tailored to
   ],
   projects: [
     {
+      title: "Vesko Mobile App",
+      href: "https://github.com/Rishu2505/app_vesko",
+      dates: "Aug 2025",
+      active: true,
+      description:
+        "A modern Expo + React Native (TypeScript) mobile app that showcases a fashion feed with shoes, clothing, and accessories.Built with clean scalable architecture, reusable components, and mock image data for prototyping stylish UI.",
+      technologies: [
+        "React Native",
+        "Typescript",
+        "Expo",
+        "CSS",
+        "Animations",
+        "Zustand",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Rishu2505/app_vesko",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-f7f9635c2dc945be86094691b6687a78.r2.dev/Vesko.mp4",
+    },
+    {
       title: "Sentient Mobile App",
       href: "https://github.com/Rishu2505/Sentient/blob/main/assets/images/sentient.gif",
       dates: "July 2025",
