@@ -40,7 +40,7 @@ export function ProjectCard({
   links,
   className,
 }: Props) {
-  let mobileUI = links?.some(link => ['https://github.com/Rishu2505/app_vesko','https://github.com/Rishu2505/tasks_hipster','https://github.com/Rishu2505/Sentient'].includes(link.href)) || false
+  let mobileUI = links?.some(link => ['https://github.com/Rishu2505/adviso_ai','https://github.com/Rishu2505/app_vesko','https://github.com/Rishu2505/tasks_hipster','https://github.com/Rishu2505/Sentient'].includes(link.href)) || false
   return (
     <Card
       className={

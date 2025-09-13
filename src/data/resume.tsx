@@ -161,6 +161,35 @@ React Native and my ability to deliver high-quality mobile solutions tailored to
   ],
   projects: [
     {
+      title: "Adviso AI",
+      href: "https://github.com/Rishu2505/adviso_ai",
+      dates: "Sep 2025",
+      active: true,
+      description:
+        "AdvisoAI is a React Native (Expo) application that helps users discover the best products using AI-powered recommendations and also provides a real-time chat interface with OpenAI, similar to ChatGPT.",
+      technologies: [
+        "React Native",
+        "Typescript",
+        "Expo",
+        "Open AI",
+        "CSS",
+        "Animated V3",
+        "Zustand",
+        "Axios",
+        "Lottie",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Rishu2505/adviso_ai",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-f7f9635c2dc945be86094691b6687a78.r2.dev/adviso_AI.mp4",
+    },
+    {
       title: "Vesko Mobile App",
       href: "https://github.com/Rishu2505/app_vesko",
       dates: "Aug 2025",
